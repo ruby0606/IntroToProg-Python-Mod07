@@ -18,7 +18,8 @@ I created four exception handling cases:
 2.	When user enters “ID” that is not in the integer format
 3.	When user tries to open a file that does not exist
 4.	When user messes up the pickled binary file and tries to unpickle the information
-Step 5: Exit program
+
+## Step 5: Exit program
 When user selects this action, a message is displayed to the user and they exit from the program
 
 ## Step 6: Results in pyCharm
