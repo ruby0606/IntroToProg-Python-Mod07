@@ -23,22 +23,26 @@ When user selects this action, a message is displayed to the user and they exit 
 
 ## Step 6: Results in pyCharm
 Results in PyCharm showing the user performing each of the actions succesfully:
- 
-Fig 1.1: Screenshot of the result in Pycharm 
+
+Fig 1.1: Screenshot of the result in Pycharm
+https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/PycharmResults.png
  
 Fig 1.2 Screenshot of the exceptions in Pycharm
- 
-1.3 Screenshot of the unpickling exception in PyCharm
+https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/PycharmExceptions1.png
+
+Fig 1.3 Screenshot of the unpickling exception in PyCharm
+https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/PycharmExceptions2.png
 
 ## Step 7: Results in Terminal
 Results in Terminal displaying all user actions 
  
 Fig 2: Screenshot of the result in Terminal 
+https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/TerminalResults.png
 
 ## Step 8: Github link
 https://github.com/ruby0606/IntroToProg-Python-Mod07
 
-Summary
+## Summary
 I started with a basic trial file where I defined my list data in the program instead of requesting user to add information. I then attempted pickling/unpickling actions and verified how the information looks. Once I was able to complete this properly, I went onto requesting data from user and performing these actions and dealing with exceptions. It was challenging to ensure all actions could be completed successfully and to ensure that errors were caught gracefully. 
 
 
