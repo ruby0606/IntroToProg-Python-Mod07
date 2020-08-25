@@ -25,19 +25,19 @@ When user selects this action, a message is displayed to the user and they exit 
 Results in PyCharm showing the user performing each of the actions succesfully:
 
 Fig 1.1: Screenshot of the result in Pycharm
-PycharmResults.png
+<img src="PycharmResults.png" />
  
 Fig 1.2 Screenshot of the exceptions in Pycharm
-https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/PycharmExceptions1.png
+<img src="PycharmExceptions1.png" />
 
 Fig 1.3 Screenshot of the unpickling exception in PyCharm
-https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/PycharmExceptions2.png
+<img src="PycharmExceptions2.png" />
 
 ## Step 7: Results in Terminal
 Results in Terminal displaying all user actions 
  
 Fig 2: Screenshot of the result in Terminal 
-https://github.com/ruby0606/IntroToProg-Python-Mod07/blob/master/TerminalResults.png
+<img src="TerminalResults.png" />
 
 ## Step 8: Github link
 https://github.com/ruby0606/IntroToProg-Python-Mod07
